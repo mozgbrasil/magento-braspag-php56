@@ -1,0 +1,12 @@
+## Modman Module Mozg
+app/code/local/Mozg/Braspag/	app/code/local/Mozg/Braspag/
+app/design/adminhtml/default/default/layout/mozg_braspag.xml	app/design/adminhtml/default/default/layout/mozg_braspag.xml
+app/design/adminhtml/default/default/template/mozg_braspag/	app/design/adminhtml/default/default/template/mozg_braspag/
+app/design/frontend/base/default/layout/mozg_braspag.xml	app/design/frontend/base/default/layout/mozg_braspag.xml
+app/design/frontend/base/default/template/mozg_braspag/	app/design/frontend/base/default/template/mozg_braspag/
+app/etc/modules/Mozg_Braspag.xml	app/etc/modules/Mozg_Braspag.xml
+app/locale/pt_BR/Mozg_Braspag.csv	app/locale/pt_BR/Mozg_Braspag.csv
+js/mozg_braspag/	js/mozg_braspag/
+skin/adminhtml/default/default/images/mozg_braspag/	skin/adminhtml/default/default/images/mozg_braspag/
+skin/frontend/base/default/css/mozg_braspag/	skin/frontend/base/default/css/mozg_braspag/
+skin/frontend/base/default/images/mozg_braspag/	skin/frontend/base/default/images/mozg_braspag/
